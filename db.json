@@ -1,5 +1,5 @@
 {
-    trains: {
+    {
         "id": "1",
         "arrival": "5D01",
         "powerType": "801 E",
